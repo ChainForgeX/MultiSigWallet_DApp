@@ -1,8 +1,8 @@
-import Staking from "./Staking";
+import Dashboard from "./Dashboard";
 
 function App(){
   return(
-    <Staking />
+    <Dashboard />
   );
 }
 
